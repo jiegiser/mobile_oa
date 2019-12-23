@@ -9,9 +9,9 @@ const DATA = [
 
 const DATA2 = {
     '20180708': [
-        { 'image': ["http://124.229.182.173:85/Scripts/kindeditor/attached/image/20190318/20190318135929_6872.jpg"], 'id': 0, 'title': "本周热门精选 · 热血漫画一样的比赛" },
-        { 'image': ["http://124.229.182.173:85/Scripts/kindeditor/attached/image/20190119/20190119220537_4931.png"], 'id': 1, 'title': "本周热门精选 · 热血漫画一样的比赛" },
-        { 'image': ["http://124.229.182.173:85/Scripts/kindeditor/attached/image/20190119/20190119220537_4931.png"], 'id': 1, 'title': "本周热门精选 · 热血漫画一样的比赛" },
-        { 'image': ["http://124.229.182.173:85/Scripts/kindeditor/attached/image/20190119/20190119220158_5712.png"], 'id': 1, 'title': "本周热门精选 · 热血漫画一样的比赛" },
+        { 'image': ["http://example/Scripts/kindeditor/attached/image/20190318/20190318135929_6872.jpg"], 'id': 0, 'title': "本周热门精选 · 热血漫画一样的比赛" },
+        { 'image': ["http://example/Scripts/kindeditor/attached/image/20190119/20190119220537_4931.png"], 'id': 1, 'title': "本周热门精选 · 热血漫画一样的比赛" },
+        { 'image': ["http://example/Scripts/kindeditor/attached/image/20190119/20190119220537_4931.png"], 'id': 1, 'title': "本周热门精选 · 热血漫画一样的比赛" },
+        { 'image': ["http://example/Scripts/kindeditor/attached/image/20190119/20190119220158_5712.png"], 'id': 1, 'title': "本周热门精选 · 热血漫画一样的比赛" },
     ],
 };
